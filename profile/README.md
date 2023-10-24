@@ -37,12 +37,12 @@
 
 | 项目链接                                                     | 项目描述                       | 需求分析                                     | 进度   | 优先级 |
 | ------------------------------------------------------------ | ------------------------------ | -------------------------------------------- | ------ | ------ |
-| [linovelib2epub](https://github.com/lightnovel-center/linovelib2epub) | 网页轻小说爬虫、数据转化       | 网页轻小说转化为 epub                        | 已完成 | 高     |
+| [linovelib2epub](https://github.com/lightnovel-center/linovelib2epub) | 网页轻小说爬虫、数据转化       | 网页轻小说转化为 epub                        | 完成 | 高     |
 | [lightnovel-website-design](https://github.com/lightnovel-center/lightnovel-website-design) | 《轻小说网站设计与实现》       | 为轻小说网站实现提供一个参考                 | TBC    |        |
-| [markdown2epub](https://github.com/lightnovel-center/markdown2epub) | markdown文件转为为 epub        | 适用于原创轻小说，自动化排版为 epub          | 孵化中 |        |
-| [epub-reader-electron](https://github.com/lightnovel-center/epub-reader-electron) | 使用 electron 实现 epub 阅读器 | 为 epub 轻小说阅读提供更为优质的体验         | TBC    |        |
+| [markdown2epub](https://github.com/lightnovel-center/markdown2epub) | markdown文件转为为 epub        | 适用于原创轻小说，自动化排版为 epub          | 孵化 |        |
+| [epub-reader-electron](https://github.com/lightnovel-center/epub-reader-electron) | electron 实现 epub 阅读器 | 为 epub 轻小说阅读提供更优质的体验         | TBC    |        |
 | [.github](https://github.com/lightnovel-center/.github)      | github 组织首页描述            | 为当前组织汇总一个项目列表介绍               | N/A    |        |
 | [awesome-lightnovel](https://github.com/lightnovel-center/awesome-lightnovel) | 轻小说相关资源/工具收集        | 扩展轻小说相关工具链                         | N/A    |        |
 | [sigil-template](https://github.com/lightnovel-center/sigil-template) | 一个 Sigil CSS Template        | 轻小说CSS排版参考，仅归档                    | N/A    |        |
-| ?                                                            | 小众领域——轻小说机器翻译       | 现存的翻译软件不能很好地完成轻小说的翻译工作 | TBC    |        |
+| ?                                                            | 轻小说机器翻译       | 小众领域的翻译优化 | TBC    |        |
 
