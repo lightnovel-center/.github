@@ -35,14 +35,13 @@
 
 ### 项目概览
 
-| 项目链接                                                     | 项目描述                       | 需求分析                                     | 进度   | 优先级 |维护 |
-| ------------------------------------------------------------ | ------------------------------ | -------------------------------------------- | ------ | ------ | ---|
-| 🔄[linovelib2epub](https://github.com/lightnovel-center/linovelib2epub) | 网页轻小说爬虫、数据转化       | 网页轻小说转化为 epub                        | ☀️ 🌳 | ⬆️     |LTS|
-| 🌐[lightnovel-website-design](https://github.com/lightnovel-center/lightnovel-website-design) | 《轻小说网站设计与实现》       | 为轻小说网站实现提供参考                 | ⏳    |        |
-| 🔄[markdown2epub](https://github.com/lightnovel-center/markdown2epub) | markdown文件转化为 epub        | 适用于原创轻小说，排版为 epub          | 💦🌱 |        |
-| 📖[epub-reader-electron](https://github.com/lightnovel-center/epub-reader-electron) | electron 实现 epub 阅读器 | 为 epub 轻小说阅读提供优质体验         | ⏳    |        |
-| 🏠[.github](https://github.com/lightnovel-center/.github)      | github 组织首页描述            | 介绍当前组织               | N/A    |        |
-| 🔨[awesome-lightnovel](https://github.com/lightnovel-center/awesome-lightnovel) | 轻小说相关资源/工具收集        | 扩展轻小说相关工具链                         | N/A    |        |
-| 🔨[sigil-template](https://github.com/lightnovel-center/sigil-template) | 一个 Sigil CSS Template        | 轻小说CSS排版参考，仅归档                    | N/A    |        |
-| ?                                                            | 轻小说机器翻译       | 小众领域的翻译优化 | ⏳    |        |
-
+| 项目链接                                                                                          | 项目描述                  | 需求分析               | 进度    | 优先级 | 维护  |
+|-----------------------------------------------------------------------------------------------|-----------------------|--------------------|-------|---|-----|
+| 🔄[linovelib2epub](https://github.com/lightnovel-center/linovelib2epub)                       | 网页轻小说爬虫、数据转化          | 网页轻小说转化为 epub      | ☀️ 🌳 | ↗️ | LTS |
+| 🌐[lightnovel-website-design](https://github.com/lightnovel-center/lightnovel-website-design) | 《轻小说网站设计与实现》          | 为轻小说网站实现提供参考       | ⏳     |   |
+| 🔄[markdown2epub](https://github.com/lightnovel-center/markdown2epub)                         | markdown文件转化为 epub    | 适用于原创轻小说，排版为 epub  | 💦🌱  |   |
+| 📖[epub-reader-electron](https://github.com/lightnovel-center/epub-reader-electron)           | electron 实现 epub 阅读器  | 为 epub 轻小说阅读提供优质体验 | ⏳     |   |
+| 🏠[.github](https://github.com/lightnovel-center/.github)                                     | github 组织首页描述         | 介绍当前组织             | N/A   | ↘️  |     |
+| 🔨[awesome-lightnovel](https://github.com/lightnovel-center/awesome-lightnovel)               | 轻小说相关资源/工具收集          | 扩展轻小说相关工具链         | N/A   | ↘️ |     |
+| 🔨[sigil-template](https://github.com/lightnovel-center/sigil-template)                       | 一个 Sigil CSS Template | 轻小说CSS排版参考，仅归档     | N/A   | ↘️ |     |
+| ?                                                                                             | 轻小说机器翻译               | 小众领域的翻译优化          | ⏳     | ↘️ |     |
