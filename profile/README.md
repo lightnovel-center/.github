@@ -44,4 +44,4 @@
 | 🏠[.github](https://github.com/lightnovel-center/.github)                                     | github 组织首页描述         | 介绍当前组织             | N/A   | ↘️  |     |
 | 🔨[awesome-lightnovel](https://github.com/lightnovel-center/awesome-lightnovel)               | 轻小说相关资源/工具收集          | 扩展轻小说相关工具链         | N/A   | ↘️ |     |
 | 🔨[sigil-template](https://github.com/lightnovel-center/sigil-template)                       | 一个 Sigil CSS Template | 轻小说CSS排版参考，仅归档     | N/A   | ↘️ |     |
-| ?                                                                                             | 轻小说机器翻译               | 小众领域的翻译优化          | ⏳     | ↘️ |     |
+| 🔍[lightnovel-study](https://github.com/lightnovel-center/lightnovel-study) | 关于轻小说的论文搜集。| 从学术角度研究轻小说| N/A| ↘️ | N |
